@@ -4,46 +4,41 @@
     "job": "Web Developer",
     "github": "ErickSouza94",
     "playlists": {
-        "jogos": [
+        "História Pública": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "Comunismo: princípios básicos e guia de leitura",
+                "url": "https://www.youtube.com/watch?v=cg5winGpx80&t=396s",
+                "thumb": "https://i.ytimg.com/vi/cg5winGpx80/maxresdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "(Áudio) O que é Maoísmo? Um panorama histórico e teórico (part. João Pedro Fragoso)",
+                "url": "https://www.youtube.com/watch?v=xyAXEvFDOHc",
+                "thumb": "https://i.ytimg.com/vi/xyAXEvFDOHc/maxresdefault.jpg"
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
-                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "title": "O que é Leninismo? Trotskismo é 'Leninista'? (part. Froggy)",
+                "url": "https://www.youtube.com/watch?v=mn8TeY-rMoI&t=2949s",
+                "thumb": "https://i.ytimg.com/vi/mn8TeY-rMoI/maxresdefault.jpg"
             },
             {
-                "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-                "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-                "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+                "title": "Realismo Capitalista (É mais fácil imaginar o fim do mundo do que o fim do capitalismo)",
+                "url": "https://www.youtube.com/watch?v=f62SRvGCPQo&t=1248s",
+                "thumb": "https://pbs.twimg.com/media/FBdbqUtWQAAG9d9.jpg:large"
             },
             {
-                "title": "Netdecking Estraga o Magic?",
-                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+                "title": "Ucrânia: O que foi o 'Euromaidan' (2013-2014)?",
+                "url": "https://www.youtube.com/watch?v=hA5at-tlWAY",
+                "thumb": "https://i.ytimg.com/vi/hA5at-tlWAY/maxresdefault.jpg"
             },
             {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+                "title": "Laos Parte 1: Criando um Estado-nação",
+                "url": "https://www.youtube.com/watch?v=kELGgaTx84s",
+                "thumb": "https://pbs.twimg.com/media/FInzO5vXEAMy7AK.jpg:large"
             },
             {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-            },
-            {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+                "title": "Por que odiamos? Ep. 1: Margaret Thatcher",
+                "url": "https://www.youtube.com/watch?v=G4QZFJVToNg",
+                "thumb": "https://i.ytimg.com/vi/G4QZFJVToNg/maxresdefault.jpg"
             }
         ],
         "front-end": [

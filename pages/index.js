@@ -9,7 +9,7 @@ import { StyledTimeline } from "../src/components/Timeline"
 
 function HomePage() {
  
-  // console.log(config.playlists);
+  
 
   return (
       <>
@@ -51,11 +51,18 @@ const StyledHeader = styled.div`
     padding: 16px 32px;
     gap: 16px;
   }
+  .banner {
+    margin-top: 50px;
+    margin-bottom: -50px;
+    width: 100vw;
+    height: 250px;
+    border-radius: 0px;
+  }
 `;
 function Header() {
   return (
     <StyledHeader>
-      {/* <img src="banner" /> */}
+      <img className ="banner" src ={'https://img.imageboss.me/revista-cdn/cdn/30736/3ab8eb15e555ccb4b8ff29e0b49deeb5f8db8c7b.jpg?1597184837'} />
 
       <section className="user-info">
         <img src={`https://github.com/${config.github}.png`} />
@@ -69,7 +76,7 @@ function Header() {
 }
 
 function TimeLine(props) {
-  // console.log("Dentro do componetne", props.playlists);
+ 
   const playlistsNames = Object.keys(props.playlists);
   return (
     <StyledTimeline>        
