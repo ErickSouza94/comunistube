@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import Search from "./components/Search"
 
 const StyledMenu = styled.header`
   display: flex;
@@ -6,9 +7,8 @@ const StyledMenu = styled.header`
   height: 60px;
   justify-content: space-between;
   background-color: red;
-  border: 1px solid ${({ theme }) => theme.borderBase || "#e5e5e5"};
   align-items: center;
-  gap: 16px;
+  gap: 15px;
   position: fixed;
   width: 100%;
   .logo {
@@ -23,12 +23,13 @@ const StyledMenu = styled.header`
   }
 `;
 
-export default function Menu() {
+export default function Menu({valorDoFiltro, setValorDoFiltro}) {
   return (
     <StyledMenu>
       <div>
         <Logo />
       </div>
+        <Search valorDoFiltro={valorDoFiltro} setValorDoFiltro={setValorDoFiltro}/>
     </StyledMenu>
   );
 }
