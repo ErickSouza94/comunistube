@@ -41,88 +41,79 @@
                 "thumb": "https://i.ytimg.com/vi/G4QZFJVToNg/maxresdefault.jpg"
             }
         ],
-        "front-end": [
+        "Historia Cabeluda": [
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+                "title": "LENDO LENIN - ESTADO E REVOLUÇÃO - CAPÍTULO 1 (PARTES 1, 2 E 3)",
+                "url": "https://www.youtube.com/watch?v=Rm3Z0nd5PKs",
+                "thumb": "https://i.ytimg.com/vi/Rm3Z0nd5PKs/maxresdefault.jpg"
             },
             {
-                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+                "title": "LENDO LENIN - ESTADO E REVOLUÇÃO - CAPÍTULO 1 (PARTE 4)",
+                "url": "https://www.youtube.com/watch?v=VxTUZBIVtDk",
+                "thumb": "https://i.ytimg.com/vi/VxTUZBIVtDk/maxresdefault.jpg"
             },
             {
-                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+                "title": "Subjetividades no capitalismo tardio - Mesa com Maíra Marcondes e Heribaldo Maia",
+                "url": "https://www.youtube.com/watch?v=u3B-DSUODFI",
+                "thumb": "https://i.ytimg.com/vi/u3B-DSUODFI/maxresdefault.jpg"
             },
             {
-                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+                "title": "Entenda de uma forma SIMPLES (e usando Lênin) porque a Rússia NÃO é ANTI-IMPERIALISTA",
+                "url": "https://www.youtube.com/watch?v=WMjl9DVHZOI",
+                "thumb": "https://i.ytimg.com/vi/WMjl9DVHZOI/maxresdefault.jpg"
             },
             {
-                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+                "title": "BEABÁ DO MARXISMO - EPISÓDIO 1: O CAPITAL",
+                "url": "https://www.youtube.com/watch?v=3_uQ57adkkc",
+                "thumb": "https://i.ytimg.com/vi/3_uQ57adkkc/maxresdefault.jpg"
             },
             {
-                "title": "Como Foi Programado um App Que Faz Mágica",
-                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
-            },
-            {
-                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-            },
-            {
-                "title": "5 Erros Históricos do CSS",
-                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-            },
-            {
-                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+                "title": "DRAWSTORY - O QUE É FASCISMO?",
+                "url": "https://www.youtube.com/watch?v=YyHG4K34m1k",
+                "thumb": "https://www.anf.org.br/wp-content/uploads/2018/04/7829-quatro-a-cada-cinco-vitimas-de-homicidios-sao-homens-negros.jpg"
             }
+           
         ],
-        "back-end": [
+        "Jones Manoel": [
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+                "title": "Um programa emergencial para reconstruir o Brasil",
+                "url": "https://www.youtube.com/watch?v=XUEOo4b9G1o",
+                "thumb": "https://i.ytimg.com/vi/XUEOo4b9G1o/maxresdefault.jpg"
             },
             {
-                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+                "title": "O que é ser classe média?",
+                "url": "https://www.youtube.com/watch?v=Nt-ZPpTLbsM",
+                "thumb": "https://i.ytimg.com/vi/Nt-ZPpTLbsM/maxresdefault.jpg"
             },
             {
-                "title": "O que é o Java? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+                "title": "O que é a democracia burguesa?",
+                "url": "https://www.youtube.com/watch?v=Kr45dzQK77A",
+                "thumb": "https://i.ytimg.com/vi/Kr45dzQK77A/maxresdefault.jpg"
             },
             {
-                "title": "O que é Machine Learning? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+                "title": "Por que a União Soviética foi derrotada?",
+                "url": "https://www.youtube.com/watch?v=pJkPK0EtAZw",
+                "thumb": "https://i.ytimg.com/vi/pJkPK0EtAZw/maxresdefault.jpg"
             },
             {
-                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+                "title": "O que é o neoliberalismo progressista? | CORTES DO CANAL 11",
+                "url": "https://www.youtube.com/watch?v=27I5lwdj0kg",
+                "thumb": "https://i.ytimg.com/vi/27I5lwdj0kg/maxresdefault.jpg"
             },
             {
-                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "title": "Latifúndio, sertanejo e política cultural",
                 "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+                "thumb": "https://i.ytimg.com/vi/S0UioxfsadE/maxresdefault.jpg"
             },
             {
-                "title": "O que é o C#? #HipstersPontoTube",
-                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+                "title": "Malcolm X e o socialismo | CORTES DO CANAL 08",
+                "url": "https://www.youtube.com/watch?v=Tp4K4GATK_U",
+                "thumb": "https://i.ytimg.com/vi/Tp4K4GATK_U/maxresdefault.jpg"
+            },
+            {
+                "title":"China: capitalismo de estado ou socialismo?",
+                "url": "https://www.youtube.com/watch?v=Voj43HrYCXI" ,
+                "thumb": "https://i.ytimg.com/vi/Voj43HrYCXI/maxresdefault.jpg"
             }
         ]
     }
