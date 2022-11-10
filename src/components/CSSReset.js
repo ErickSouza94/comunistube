@@ -7,8 +7,15 @@ export const CSSReset = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  header{
+    background-color: red;
+  }
+
   body {
     font-family: sans-serif;
+    background-color: ${({theme}) => theme.backgroundBase};
+    color: ${({theme}) => theme.textColorBase}
   }
   /* NextJS */
   html {
